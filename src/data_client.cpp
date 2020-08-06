@@ -7,7 +7,7 @@ int status;
 
 WiFiClient client;
 const uint16_t port = 8080;
-const char* host = "192.168.2.114";
+const char* host = "...";
 
 void setup_gyro(){
 
